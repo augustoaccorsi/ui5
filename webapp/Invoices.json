@@ -39,6 +39,30 @@
         "ShipperName": "Fun Inc.",
         "ShippedDate": "2015-01-27T00:00:00",
         "Status": "A"
+      },
+      {
+        "ProductName": "Laptop",
+        "Quantity": 16,
+        "ExtendedPrice": 15.0000,
+        "ShipperName": "Fun Inc.",
+        "ShippedDate": "2015-01-27T00:00:00",
+        "Status": "B"
+      },
+      {
+        "ProductName": "Telefone",
+        "Quantity": 16,
+        "ExtendedPrice": 12.20,
+        "ShipperName": "The Company",
+        "ShippedDate": "2015-01-27T00:00:00",
+        "Status": "B"
+      },
+      {
+        "ProductName": "Chimarrao",
+        "Quantity": 16,
+        "ExtendedPrice": 1.20,
+        "ShipperName": "The Company",
+        "ShippedDate": "2015-01-27T00:00:00",
+        "Status": "A"
       }
     ]
   }
